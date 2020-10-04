@@ -4,7 +4,7 @@
 
 On Mac OSX there is a dock which has all the icons of the application that are open or have been pinned to the toolbar.
 
-Navigating via the dock is much slower than using the Finder (Cmd + Space). Also because the dock has colorful icons for other applications, often times there is an impulse to click another application when that wasn't the original intent of being on the computer.
+Navigating via the dock is much slower than using the (Cmd + Tab) to scroll through open applications, or Finder (Cmd + Space). Also because the dock has colorful icons for other applications, often times there is an impulse to click another application when that wasn't the original intent of being on the computer.
 
 This repo has a transparent icon which you can turn the cluttered docker from this:
 ![Image of Cluttered Dock](https://tech-addiction.com/images/dock_with_one_empty.png)
